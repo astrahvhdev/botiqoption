@@ -30,8 +30,8 @@ Cada sinal enviado para o Telegram contém:
 ✅ Assertividade Estimada
 
 ## 📸 Exemplos de Sinais no Telegram
-![Sinais no Telegram](file-DLkq1Rgeps1GTBQzkekbV6)
-![Exemplo de Sinal](file-Wh5ruqU4gEfZPVXXztZQpi)
+![Sinais no Telegram](imagem1.png)
+![Exemplo de Sinal](imagem2.png)
 
 ## ⚙️ Como Usar o Bot
 
