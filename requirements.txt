@@ -1,0 +1,5 @@
+iqoptionapi
+numpy
+pandas
+requests
+ta
